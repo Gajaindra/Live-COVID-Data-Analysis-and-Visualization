@@ -267,16 +267,3 @@ fig.show()
 
 fig.update_layout(title={"text":f'top {LOOT_AT} countries affected'},yaxis_type="log")
 fig.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
