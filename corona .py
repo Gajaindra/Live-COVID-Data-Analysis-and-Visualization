@@ -99,7 +99,7 @@ df.drop([18,19,20],inplace =True,axis=1)
 df.head()
 
 
-# In[9]:
+# In[9]: 
 
 
 column_labels=["Country","Total cases","New cases","Total Deaths","New Deaths","Total Recovered","New Recovered","Active Cases","Serious/Critical","Total Cases/1M","Deaths/1M","Total Teasts","Test/1M","Population","Continent"]
